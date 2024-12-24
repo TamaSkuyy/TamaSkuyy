@@ -23,9 +23,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![TamaSkuyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamaSkuyy&show_icons=true&theme=radical)
+![TamaSkuyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamaSkuyy&show_icons=true&theme=radical) -->
 
 ## Top Languages
 
