@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Go and frontend frameworks like Vue.js and Next.js**
 - 💬 Ask me about **Laravel, PHP, Python, and JavaScript**
 - 📫 How to reach me: **[mkhatama@gmail.com](mailto:mkhatama@gmail.com)**
-- ⚡ Fun fact: **I love comic and playing some chill games :D**
+- ⚡ Fun fact: **I love comic and Anime and playing some chill games :D**
 
 ## Skills
 
