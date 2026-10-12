@@ -44,6 +44,5 @@ I am a **Web Developer & Information Systems Graduate** with a passion for build
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-khatama-a57b2811b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mkhatama)
 
 ---
